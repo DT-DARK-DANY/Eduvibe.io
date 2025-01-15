@@ -44,6 +44,7 @@ Eduvibe offers a range of powerful features designed to enhance the learning exp
 ---
 
 ## Competitive Edge
+![Competitors_Analysis_logo](Images/Competitors_Analysis.png)
 
 Eduvibe stands out with:
 
