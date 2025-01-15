@@ -32,6 +32,7 @@ Eduvibe is designed to benefit a wide range of stakeholders in the education eco
 ---
 ## Features
 Eduvibe offers a range of powerful features designed to enhance the learning experience:
+![Features_logo](Images/Feature.png)
 
 *   **Problem Solving:** Supports critical thinking and analytical skills through interactive exercises and simulations.
 *   **Practice Quizzes:** Facilitates regular assessments to reinforce learning and track progress.
