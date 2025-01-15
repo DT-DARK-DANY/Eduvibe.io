@@ -23,6 +23,7 @@ Eduvibe aims to address critical challenges in education, including:
 ## Target Audience
 
 Eduvibe is designed to benefit a wide range of stakeholders in the education ecosystem:
+![Features_logo](Images/Target_Audience.png)
 
 *   **Schools:** Enhancing classroom engagement and personalized learning.
 *   **Content Creators and Publishers:** Enabling the creation of dynamic educational content.
