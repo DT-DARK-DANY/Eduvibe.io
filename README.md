@@ -11,6 +11,7 @@ Eduvibe is is an innovative platform with a mission to transform education throu
 ## Purpose
 
 Eduvibe aims to address critical challenges in education, including:
+![Purpose_logo](Images/Purpose.png)
 
 *   Ensuring equity in access to quality education.
 *   Overcoming the lack of personalized learning pathways and engagement in traditional systems.
