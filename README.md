@@ -3,6 +3,7 @@
 Empowering Educators and Personalizing Student Learning through Generative AI.
 
 ## Overview
+![Overview](Images/Overview.png)
 
 Eduvibe is is an innovative platform with a mission to transform education through generative AI solutions. By empowering learners and educators, it offers personalized, interactive, and accessible tools designed to inspire creativity, enhance learning experiences, and unlock limitless potential in every individual. Aligned with the vision of empowering every learner with transformative, AI-driven education, Eduvibe seeks to inspire limitless possibilities through its cutting-edge technology.
 
