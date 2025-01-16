@@ -73,7 +73,7 @@ Stay tuned for updates on our latest research, publications, and real-world use 
 - [Hands-on Analysis of Using Large Language Models for the Auto Evaluation of Programming Assignments: A ScienceDirect Article](https://www.sciencedirect.com/science/article/abs/pii/S0306437924001315)
 
 ---
-
+<!--
 ## Contact
 
 For inquiries or collaborations, reach out to us at:
@@ -81,3 +81,4 @@ For inquiries or collaborations, reach out to us at:
 - **Dr. Ghada Khoriba**: [ghadakhoriba@nu.edu.eg](mailto:ghadakhoriba@nu.edu.eg)
 - **Dr. Ensaf Mohamed**: [enmohamed@nu.edu.eg](mailto:enmohamed@nu.edu.eg)
 - **Dr. Walaa Medhat**: [wmedhat@nu.edu.eg](mailto:wmedhat@nu.edu.eg)
+ -->
